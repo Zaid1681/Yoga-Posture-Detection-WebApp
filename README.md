@@ -12,12 +12,15 @@ The Yoga Posture Detection System is a computer vision-based tool that can autom
 ![yogaweb3](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/95d11b2a-2fcb-46eb-9404-9b6d760cc617)
 
 ### Working
-Website Ui 
+## Website Ui 
 ![yogaweb1](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/a52b698a-5a0c-4b73-be52-25261c4f8a22)
+
 ![yoga](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/13c8158e-a1d0-470b-bf2d-36dbb81efbd0)
+
 ![yogaweb2](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/c23d43d2-eb69-42cd-a09d-80eab5f69d8b)
 
 Posture Detection And Correction
+
 ![yoga](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/a1b78f6c-8571-4304-af73-fa0c178f6b8a)
 
 The angles listed below are accurate ones, and we taught our system to recognise these kinds of photographs.
