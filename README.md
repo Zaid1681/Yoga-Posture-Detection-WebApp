@@ -11,6 +11,7 @@ The Yoga Posture Detection System is a computer vision-based tool that can autom
 ### All joints in mediapipe
 
 ### Working
+![yoga](https://github.com/Zaid1681/Yoga-Posture-Detection-WebApp/assets/95166179/a1b78f6c-8571-4304-af73-fa0c178f6b8a)
 
 The angles listed below are accurate ones, and we taught our system to recognise these kinds of photographs.
 
